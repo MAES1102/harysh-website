@@ -1,0 +1,133 @@
+{
+  "nav": {
+    "home": "Home",
+    "aerospace": "Aerospace",
+    "astronomy": "Astronomy",
+    "join": "Join",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Harysh — Your Path to the Stars",
+    "subtitle": "A youth community for aerospace and astronomy",
+    "aerospace_heading": "Aerospace Engineering",
+    "aerospace_intro": "The science and technology of flying vehicles — from planes to satellites.",
+    "astro_heading": "Astronomy",
+    "astro_intro": "Exploring stars, planets, galaxies, and the universe.",
+    "why_title": "Why join us?",
+    "cta_title": "Ready to take a step into space?",
+    "cta_text": "Join Harysh today and start your journey!",
+    "cta_button": "Join"
+  },
+  "join": {
+    "title": "Join Us",
+    "description": "Are you passionate about space, engineering, or research? We’re waiting for you!",
+    "who_title": "Who are we?",
+    "who_text": "Harysh is a student and enthusiast community in aerospace and astronomy.",
+    "activities_title": "What we do",
+    "activities": {
+      "masterclasses": "Masterclasses and workshops with experts",
+      "education": "Educational projects for youth"
+    },
+    "why_title": "Why join?",
+    "experience": "Experience",
+    "experience_desc": "Participate in real projects and competitions.",
+    "growth": "Growth",
+    "growth_desc": "Boost your skills in advanced fields.",
+    "community": "Community",
+    "community_desc": "Collaborate with like-minded people.",
+    "global": "Global Reach",
+    "global_desc": "Join international programs and networks.",
+    "how_title": "How to join?",
+    "how_text": "Fill out the form or message us on socials.",
+    "cta_title": "Take the first step!",
+    "cta_text": "Your space journey starts here.",
+    "cta_button": "Contact Us"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "We're always connected — message us anytime!",
+    "email_title": "Email",
+    "whatsapp_note": "Message us on WhatsApp for a quick response",
+    "whatsapp_link": "Open Chat",
+    "cta_title": "Stay Connected",
+    "cta_text": "Have a question? We’re here to help.",
+    "cta_button": "Go to form"
+  },
+  "aerospace": {
+    "title": "Aerospace",
+    "intro": "An overview of the aerospace sector in Kazakhstan.",
+    "industry": "Industry",
+    "kazcosmos": {
+      "title": "Kazcosmos",
+      "desc": "The National Space Agency of Kazakhstan."
+    },
+    "ghalam": {
+      "title": "Ghalam",
+      "desc": "A satellite engineering and technology company."
+    },
+    "rspc": {
+      "title": "RCSC",
+      "desc": "Republican Center for Space Communications."
+    },
+    "support": "Government Support",
+    "support_text": "State programs and initiatives in space development.",
+    "prospects": "Future Prospects",
+    "prospects_text": "The future of aerospace technology in Kazakhstan.",
+    "education": "Education",
+    "edu": {
+      "nu": {
+        "name": "Nazarbayev University",
+        "desc": "School of Science and Technology."
+      },
+      "satbayev": {
+        "name": "Satbayev University",
+        "desc": "Department of Space Engineering."
+      },
+      "aues": {
+        "name": "AUES",
+        "desc": "Aeronautics and navigation systems."
+      },
+      "enu": {
+        "name": "ENU",
+        "desc": "Space research and instrumentation."
+      }
+    }
+  },
+  "astronomy": {
+    "title": "Astronomy",
+    "intro": "The science of stars, planets, and the cosmos.",
+    "observatories": "Observatories",
+    "kamenskoe": {
+      "name": "Kamenskoe Plateau",
+      "desc": "A high-altitude observatory near Almaty."
+    },
+    "tian_shan": {
+      "name": "Tien Shan Observatory",
+      "desc": "Telescopes located at over 2800m elevation."
+    },
+    "assy_turgen": {
+      "name": "Assy-Turgen",
+      "desc": "One of the highest observatories in Central Asia."
+    },
+    "research": "Research",
+    "research_text": "Projects in spectroscopy and space observation.",
+    "international": "International Projects",
+    "international_text": "Partnerships with NASA, ESA, and others.",
+    "education": "Education",
+    "edu": {
+      "kaznu": {
+        "name": "Al-Farabi KazNU",
+        "desc": "Department of Astronomy and Astrophysics."
+      },
+      "sku": {
+        "name": "Auezov South Kazakhstan University",
+        "desc": "Astronomy and physics programs."
+      },
+      "karu": {
+        "name": "Buketov Karaganda University",
+        "desc": "Courses in general astronomy and research."
+      }
+    }
+  }
+}
+
